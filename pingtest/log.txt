@@ -1,7 +1,0 @@
-2021-07-24 17:46:12: has_connection=True
-2021-07-24 17:46:19: has_connection=True
-2021-07-24 17:46:20: has_connection=True
-2021-07-24 17:46:21: has_connection=True
-2021-07-24 17:46:31: has_connection=False
-2021-07-24 17:46:32: has_connection=False
-2021-07-24 17:46:33: has_connection=False

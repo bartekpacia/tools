@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python main.py >> log.txt
+python3 main.py >> log.txt
